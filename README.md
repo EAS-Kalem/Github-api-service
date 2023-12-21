@@ -1,5 +1,6 @@
 # Github-api-service
 
+<br>
 This GO service utilises Github API routes 
 
 <h2>Routes</h2> 
@@ -31,4 +32,8 @@ Required:
 	<li>fileName: README.md</li>
     <li>check: # Github-api-service</li> </ul>
 Api Route: https://api.github.com/repos/EAS-$user/$repoName/contents/$fileName<br>
-
+<br>
+<h2>TODO:</h2>
+<ul><li>Clean code</li> 
+	<li>Utilise models folder as modules</li>
+</ul>
